@@ -2,7 +2,7 @@
 - 👀 I’m interested in electron app
 - 🌱 I’m currently learning vue3
 - 💞️ I’m looking to collaborate on repos friday-story
-- 📫 How to reach me knifezred@qq.com
+- 📫 How to reach me knifezred@outlook.com
 - 😄 Pronouns: KnifeZ/不爱思考
 
 <!---
